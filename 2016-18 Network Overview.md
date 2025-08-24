@@ -1,14 +1,12 @@
 *Software/**_Plugin Developer/Engineer_** | **_Multi-Project Production Ownership_** | **_Reverse Engineering & DevOps_***
 
-These projects are designed for **_one network_**. **_Minecraft Survival Games_** and **_UHC Meetup_** are **_reverse-engineered projects_**. **_UHC Meetup_** *_is an expanded project._* 
+These projects are designed for **_one network_**. **_Minecraft Survival Games_** and **_UHC Games_** are **_reverse-engineered projects_**. **_UHC Meetup_** *_is an expanded project._* 
 
 ## My Journey
 
 *_Born 2000 – Gaming, Coding & Systems from the Start_*
 
-I’ve been building, playing, and experimenting with **_technology_** since age 2, hosting **_Minecraft servers_** by 10, creating content on **_YouTube_** and **_Twitch_** by 11, and developing through my teens. After a short hiatus exploring **_competitive gaming_**, **_social media marketing_**, and **_crypto_**, I returned to coding in 2025 stronger than ever.
-
-For the story, projects, and technical timeline, see: [**Personal Journey**](https://github.com/tjXJNOOBIE/Personal-Journey)
+I’ve been building, playing, and experimenting with **_technology_** since age 2, hosting a **_cracked Minecraft server_**, creating content on **_YouTube_** and **_Twitch_** by 10, and developing through my preteens/teens. For the story, projects, and technical timeline, see: [**Personal Journey**](https://github.com/tjXJNOOBIE/Portfolio/blob/main/PERSONAL_AT_A_GLANCE.md)
 
 ## Network Overview
 
@@ -57,7 +55,8 @@ This **Full Stack Scope** demonstrates the ability to own a project from **_conc
 
 ## Modern 2025 and up Repositories
 
-- [**_Project-Novus_**] – Private repo, access required
+- [**_Project-Novus_**] – Private repo showcasing current skills – [view technical review until access is granted](https://github.com/tjXJNOOBIE/Portfolio/blob/main/NOVUS_OVERVIEW.md)
+
 
 ## Network Repositories (2016-2018)
 
