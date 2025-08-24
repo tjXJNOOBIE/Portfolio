@@ -105,4 +105,4 @@ From **_toddler gamer_** to **_multi-project engineer_**, my journey demonstrate
 
 > See [2016–2018 Network Overview](https://github.com/tjXJNOOBIE/2016---2018-Network/main/README.md) for more **_technical skills_**.
 
-> See Project Novus 2025  - Private Repo, [view technical review until access granted](https://github.com/tjXJNOOBIE/Portfolio/blob/main/NOVUS_OVERVIEW.md).
+> See Project Novus 2025  - Private Repo showcasing current skill, [view technical review until access granted](https://github.com/tjXJNOOBIE/Portfolio/blob/main/NOVUS_OVERVIEW.md).
