@@ -1,7 +1,7 @@
-# Comprehensive Technical Assessment - MCR Speedrun Project
+# Comprehensive Technical Assessment - Project Novus 
 
 ## Executive Summary
-**MCR Speedrun** is a sophisticated, enterprise-grade Minecraft plugin ecosystem demonstrating advanced software engineering practices. The project showcases a multi-module architecture with 5 distinct modules (API, Core, SpeedRun, VelocityCore, KingdomFactions) and implements complex game mechanics, distributed systems, and real-time multiplayer functionality.
+**Project Novus** is a sophisticated, enterprise-grade Minecraft plugin ecosystem demonstrating advanced software engineering practices. The project showcases a multi-module architecture with 5 distinct modules (API, Core, SpeedRun, VelocityCore, KingdomFactions) and implements complex game mechanics, distributed systems, and real-time multiplayer functionality.
 
 ## Project Metrics & Scale
 - **Total Java Classes**: 100+ classes identified
