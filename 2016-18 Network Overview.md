@@ -60,17 +60,19 @@ This **Full Stack Scope** demonstrates the ability to own a project from **_conc
 
 ## Network Repositories (2016-2018)
 
-- [**_Minecraft-FFA-2017-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-LEGACY) – 100% written, **_expanded_**, **_maintained_**  
-- [**_Minecraft-FFA-2014-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-2014-LEGACY) – early version, **_progression showcase_**  
-- [**_Minecraft-Survival-Games_**](https://github.com/tjXJNOOBIE/Minecraft-Survival-Games) – **_reverse-engineered_**, 90% rewritten  
+*_Below repos are >50% written by myself
+
+- [**_Minecraft-FFA-2017-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-LEGACY) – 100% written, **_expanded_**, and **_maintained_** by me.  
+- [**_Minecraft-FFA-2014-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-2014-LEGACY) – early version of above project, **_progression showcase_**  
+- [**_Minecraft-Survival-Games_**](https://github.com/tjXJNOOBIE/Minecraft-Survival-Games) – **_reverse-engineered_**, 90% rewritten, sole developer.
 - [**_Minecraft-Survival-Games-ORIGIN_**](https://github.com/tjXJNOOBIE/Survival-Games-ORIGIN) – 95% by another dev, **_solo reverse-engineer showcase_**  
 - [**_Minecraft-UHC-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-UHC-LEGACY) – **_collab project_**, maintained and expanded by me  
-- [**_Minecraft-UHCMeetup_**](https://github.com/tjXJNOOBIE/Minecraft-UHCMeetup) – **_plugin expansion & maintainability showcase_**  
+- [**_Minecraft-UHCMeetup_**](https://github.com/tjXJNOOBIE/Minecraft-UHCMeetup) – Expanded and maintained by me, **_plugin expansion & maintainability showcase_**  
 - [**_Minecraft-UHC-GAMES_**](https://github.com/tjXJNOOBIE/UHC-GAMES-LEGACY) – minor tweaks/features from **_Survival Games_**  
 - [**_Minecraft-Server-Core-LEGACY_**](https://github.com/tjXJNOOBIE/Server-Core-LEGACY) – mostly written by me, **_collaborative production_**  
 - [**_Minecraft-ELO-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-ELO-LEGACY) – **_architecture concept showcase_**  
 
-**Other Maintained Projects (≤80% written by me):** **_ServerCore 2017/18_**, **_Lobby"_**, **_BungeeCore_**  
+**Other Maintained Projects (≤50% written by me):** **_ServerCore 2017/18_**, **_Lobby"_**, **_BungeeCore_**  
 
 ---
 
@@ -119,6 +121,6 @@ This **Full Stack Scope** demonstrates the ability to own a project from **_conc
 - Improved **_cross-platform ops_**: Linux, Windows, Teamspeak, Apache, Xenforo, Redis, MySQL, BungeeCord  
 - Hands-on experience in **_team leadership_**, **_mentorship_**, and **_candidate evaluation_**  
 - Mastered **_project lifecycle ownership_**: concept → design → code → live → optimization → retirement  
-- Adapted to new **_tools and tech_** quickly (IntelliJ, Bash scripting, etc.)  
+- Adapted to new **_tools and tech_** quickly (IntelliJ, Bash scripting, floobits, etc.)  
 - Practiced **_rapid problem-solving_** under live conditions and constrained resources  
 - Developed **_deeper critical thinking_** for system design, optimization, and troubleshooting complex infrastructure
