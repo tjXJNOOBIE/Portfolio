@@ -10,12 +10,11 @@ I’ve been building, playing, and experimenting with **_technology_** since age
 
 ## Network Overview
 
-**Scope:** Led **_full-stack development_**, **_infrastructure_**, and **_operations_** for a network including **_Survival Games_**, **_UHC Meetup_**, **_FFA_**, **_UHC_**, and **_custom matchmaking systems_**.  
+**Scope:** Lead **_full-stack development_**, **_infrastructure_**, and **_operations_** for a network including **_Survival Games_**, **_UHC Meetup_**, **_FFA_**, **_UHC_**, and **_custom matchmaking systems_**.  
 
 - **Duration:** 2016 – 2018  
 - **Avg. Players / Peak Players:** ~100 / ~300  
-- **Data (Peak):** ~30,000 **_user records_**; 120 average **_concurrent players_**; 5,000+ registered **_forum users_**; 10,000+ monthly **_unique website visitors_**; ~500 **_TeamSpeak users_**; 300–500 **_concurrent public connections_** across all **_services_**; full **_NA → EU replication_**  
-- **Tools:** **_Spigot/PaperAPI_**, **_Java_**, **_MySQL + Redis_**, **_Bash Scripts_**, **_Eclipse_**, **_IntelliJ_**, **_BungeeCordAPI_**, **_Teamspeak 3_**, **_Xenforo_**, **_Apache_**, **_Custom Web Panels & APIs_**, Google — **_No AI code assistance_**  
+- **Tools:** **_Spigot/PaperAPI_**, **_Java_**, **_MySQL, Redis_**, **_Bash Scripts_**, **_Eclipse IDE_**, **_IntelliJ_**, **_BungeeCordAPI_**, **_Teamspeak 3_**, **_Xenforo_**, **_Apache_**, **_Custom Web Panels & APIs_**, Google — **_No AI code assistance_**  
 - **Role:** **_Lead Developer/Engineer & System Admin_**; **_DevOps_**; overseeing **_live production, revamps, and rebrands_**; eventual **_Owner Developer (CTO)_**  
 - **Role Progression:** **_Plugin Developer → Lead Plugin Developer → Lead Software Developer/Engineer → Owner Developer (CTO)_**  
 - **Key Collaborators:** [**_Matthew (Techwizmatt)_**](https://github.com/Techwizmatt), [**_Alex (ThePotatoDev)_**](https://github.com/ThePotatoDev)  
@@ -29,12 +28,12 @@ I’ve been building, playing, and experimenting with **_technology_** since age
 These projects demonstrate **_end-to-end system ownership_**, covering all layers of the **_network infrastructure_**, **_game mechanics_**, and **_operations_**:
 
 - **Game Layer / Frontend (Minecraft In-Game):**  
-  - Developed custom **_Bukkit/Paper/Spigot plugins_** for **_FFA (SG & UHC)_**, **_Survival Games_**, **_UHC Games_**, **_UHC_**, **_UHC MeetUp_**, **_ELO_**, **_Core_**, **_Lobby_**.  
+  - Developed/Maintained 10 custom **_Bukkit/Paper/Spigot plugins_** throughout project lifetime.*.  
   - Designed **_player-facing UI_** including **_scoreboards_**, **_inventories_**, **_menus_**, and **_command flows_**.  
   - **_Reverse-engineered legacy plugins_** (**_Survival Games_**, **_UHC Games_**, **_UHC Meetup_**) for **_maintainability and feature expansion_**.  
 
 - **Application Layer / Backend:**  
-  - Managed **_game state_**, **_matchmaking_**, and **_multi-node orchestration_** across **_BungeeCord networks_**.  
+  - Managed **_game state_**, **_player profiles_**, and **_multi-node orchestration_** across **_BungeeCord networks_**.  
   - Implemented **_database systems_** using **_MySQL_** and **_Redis_**, including **_cache pipelines_** and **_replication_**.  
   - Developed **_custom APIs_** to integrate **_game logic_** with **_external services_** and **_cross-server features_**.  
 
@@ -44,7 +43,7 @@ These projects demonstrate **_end-to-end system ownership_**, covering all layer
   - Configured and maintained **_web services_**, **_Teamspeak 3_**, **_Xenforo_**, **_Apache_**, and **_custom web panels_**.  
 
 - **Operations / Network Management:**  
-  - Oversaw **_live production_** of **_multi-server network_**, **revamps**, **_rebrands_**, and **_updates_**.  
+  - Lead **_live production_** of **_multi-server network_**, **revamps**, **_rebrands_**, and **_updates_**.  
   - Managed **_network-wide configs_** for **_plugins_**, **_forums_**, and **_backend services_**.  
   - Coordinated **_staff_**, reviewed **_candidates_**, and ensured **_operational stability_** for concurrent players (~100 avg, ~300 peak).  
 
@@ -60,19 +59,24 @@ This **Full Stack Scope** demonstrates the ability to own a project from **_conc
 
 ## Network Repositories (2016-2018)
 
-*_Below repos are >50% written by myself
+*_Below repos are >60% written by myself
 
 - [**_Minecraft-FFA-2017-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-LEGACY) – 100% written, **_expanded_**, and **_maintained_** by me.  
-- [**_Minecraft-FFA-2014-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-2014-LEGACY) – early version of above project, **_progression showcase_**  
-- [**_Minecraft-Survival-Games_**](https://github.com/tjXJNOOBIE/Minecraft-Survival-Games) – **_reverse-engineered_**, 90% rewritten, sole developer.
+- [**_Minecraft-FFA-2014-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-FFA-2014-LEGACY) – early version of above FFA project, **_progression showcase_**  
+- [**_Minecraft-Survival-Games_**](https://github.com/tjXJNOOBIE/Minecraft-Survival-Games) – **_reverse-engineered_**, 90% rewritten and maintained by me.
 - [**_Minecraft-Survival-Games-ORIGIN_**](https://github.com/tjXJNOOBIE/Survival-Games-ORIGIN) – 95% by another dev, **_solo reverse-engineer showcase_**  
 - [**_Minecraft-UHC-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-UHC-LEGACY) – **_collab project_**, maintained and expanded by me  
 - [**_Minecraft-UHCMeetup_**](https://github.com/tjXJNOOBIE/Minecraft-UHCMeetup) – Expanded and maintained by me, **_plugin expansion & maintainability showcase_**  
 - [**_Minecraft-UHC-GAMES_**](https://github.com/tjXJNOOBIE/UHC-GAMES-LEGACY) – minor tweaks/features from **_Survival Games_**  
 - [**_Minecraft-Server-Core-LEGACY_**](https://github.com/tjXJNOOBIE/Server-Core-LEGACY) – mostly written by me, **_collaborative production_**  
-- [**_Minecraft-ELO-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-ELO-LEGACY) – **_architecture concept showcase_**  
+- [**_Minecraft-ELO-LEGACY_**](https://github.com/tjXJNOOBIE/Minecraft-ELO-LEGACY) – **_architecture concept showcase_**, written by me
 
-**Other Maintained Projects (≤50% written by me):** **_ServerCore 2017/18_**, **_Lobby"_**, **_BungeeCore_**  
+**Other Maintained Projects (≤50% written by me):
+- **_ServerCore 2017/18_**
+- **_Lobby_**
+- **_BungeeCore_**
+
+**More versions of plugins written by me availbe upon request.**
 
 ---
 
