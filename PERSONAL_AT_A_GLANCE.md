@@ -2,8 +2,9 @@
 
 ---
 Age: 25 (Born 2000)
+
 Country: USA
-HS Graduation Year: 2018
+
 
 ## From Then to Now: At a Glance
 
